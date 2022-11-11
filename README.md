@@ -1,4 +1,4 @@
-# PupeteerForWebScraping
+# Pupeteer For Web Scraping
 Web Scraping with Pupeteer 
 ## Screenshots
 ![screenshot1](Capture.PNG)
